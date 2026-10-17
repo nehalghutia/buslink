@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1791307492952,
+      "tag": "0000_windy_centennial",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1791308647557,
+      "tag": "0001_yellow_mercury",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1791352562272,
+      "tag": "0002_far_snowbird",
+      "breakpoints": true
+    }
+  ]
+}

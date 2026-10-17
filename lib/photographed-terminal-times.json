@@ -1,0 +1,11 @@
+{
+ "effective":"2025-12-25",
+ "source":"User photographs of NMMT posted timetables, received 8 October 2026",
+ "services":[
+  {"code":"A-1","station":"Kharkopar","airport":"Airport C.T.C. bus station","toFirst":"06:30","toLast":"21:45","fromFirst":"07:00","fromLast":"22:15","toGap":["12:58","15:55"],"fromGap":["12:53","16:28"]},
+  {"code":"A-2","station":"Targhar","airport":"Airport C.T.C. bus station","toFirst":"06:30","toLast":"21:50","fromFirst":"06:50","fromLast":"22:10"},
+  {"code":"A-3","station":"Belapur","airport":"Airport C.T.C. bus station","toFirst":"06:30","toLast":"21:34","fromFirst":"06:56","fromLast":"22:00"},
+  {"code":"A-4","station":"Nerul","airport":"Airport C.T.C. bus station","toFirst":"06:25","toLast":"22:30","fromFirst":"06:55","fromLast":"23:00"},
+  {"code":"A-5","station":"Khandeshwar","airport":"Airport staff parking","toFirst":"06:32","toLast":"23:23","fromFirst":"06:58","fromLast":"23:50"}
+ ]
+}

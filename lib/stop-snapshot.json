@@ -1,0 +1,2429 @@
+{
+  "retrieved": "2026-10-12",
+  "source": "https://overpass.private.coffee/api/interpreter",
+  "license": "ODbL 1.0",
+  "attribution": "\u00a9 OpenStreetMap contributors",
+  "bounds": [
+    18.9,
+    72.95,
+    19.1,
+    73.15
+  ],
+  "stops": [
+    {
+      "id": "node/478508658",
+      "name": "NRI",
+      "lat": 19.0074117,
+      "lng": 73.0161522,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/1245606520",
+      "name": "CBD Belapur ST Bus Stop",
+      "lat": 19.0232189,
+      "lng": 73.0408354,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/1470665016",
+      "name": "NRI",
+      "lat": 19.0075876,
+      "lng": 73.0159579,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/1650221713",
+      "name": "Kendriya Vihar Bus Stop",
+      "lat": 19.0377357,
+      "lng": 73.0659687,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/1989718199",
+      "name": "Moraj Residency, Sanpada",
+      "lat": 19.0596525,
+      "lng": 73.003433,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/2246308909",
+      "name": "Cidco Water Pump",
+      "lat": 19.0227599,
+      "lng": 73.0496808,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/2319425642",
+      "name": "Panvel Railway Station Bus Stop",
+      "lat": 18.9907401,
+      "lng": 73.1232176,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/2945821017",
+      "name": "Artist Colony Sector 8",
+      "lat": 19.0353025,
+      "lng": 73.0432479,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/2945833981",
+      "name": "Gharkul, Sector 15, Kharghar",
+      "lat": 19.0400584,
+      "lng": 73.0768598,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/3251866492",
+      "name": "Shirvane Gaon",
+      "lat": 19.0501715,
+      "lng": 73.0210857,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/3388718521",
+      "name": "Cidco Water Pump",
+      "lat": 19.0226511,
+      "lng": 73.049691,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/3554646864",
+      "name": "Juhu Nagar (Vashi)",
+      "lat": 19.0868905,
+      "lng": 73.0032927,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4396958389",
+      "name": "veshvi (uran)",
+      "lat": 18.9195149,
+      "lng": 73.0444293,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4400239891",
+      "name": "veshvi gaon",
+      "lat": 18.9195506,
+      "lng": 73.0443936,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4586990696",
+      "name": "Dastaan Phata",
+      "lat": 18.927785,
+      "lng": 73.015534,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4586999295",
+      "name": "Karal Junction",
+      "lat": 18.9085955,
+      "lng": 72.9870124,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4587069990",
+      "name": "Jasai Village",
+      "lat": 18.9349063,
+      "lng": 73.0181633,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4646460399",
+      "name": "Shirke Company",
+      "lat": 18.9467315,
+      "lng": 73.0301432,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4646460400",
+      "name": "Marine Box Care",
+      "lat": 18.9506908,
+      "lng": 73.0325982,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4646487196",
+      "name": "Shankar Temple",
+      "lat": 18.9419333,
+      "lng": 73.0272858,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4646505193",
+      "name": "Chirle Phata",
+      "lat": 18.9399573,
+      "lng": 73.0257584,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4646678591",
+      "name": "Nilgiri Garden",
+      "lat": 19.0255678,
+      "lng": 73.0280539,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4646678593",
+      "name": "DY Patil Stadium",
+      "lat": 19.0435531,
+      "lng": 73.0278494,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4646678594",
+      "name": "Nerul LP (DY Patil College)",
+      "lat": 19.0458899,
+      "lng": 73.024486,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4646678802",
+      "name": "Uran Phata",
+      "lat": 19.0342401,
+      "lng": 73.02977,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4646678803",
+      "name": "Tata Press",
+      "lat": 19.0376805,
+      "lng": 73.0293018,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4646679793",
+      "name": "Ekta Vihar",
+      "lat": 19.0295558,
+      "lng": 73.0290678,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4646680194",
+      "name": "Uran Phata",
+      "lat": 19.0322148,
+      "lng": 73.0291365,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4646694203",
+      "name": "Income Tax Colony Highway",
+      "lat": 19.0121738,
+      "lng": 73.0290976,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4646706092",
+      "name": "Income Tax Colony",
+      "lat": 19.0192913,
+      "lng": 73.0284196,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4646730695",
+      "name": "Gavhan Phata",
+      "lat": 18.9592973,
+      "lng": 73.0373702,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4646730696",
+      "name": "Motha Ulwaa Village",
+      "lat": 18.9856128,
+      "lng": 73.0382435,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4646739690",
+      "name": "Belapur West Highway",
+      "lat": 19.0098462,
+      "lng": 73.0293862,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4646739694",
+      "name": "Juinagar Railway Station",
+      "lat": 19.0559287,
+      "lng": 73.0191551,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4646739794",
+      "name": "Wahal",
+      "lat": 18.9742376,
+      "lng": 73.0362545,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4646739891",
+      "name": "Targhar",
+      "lat": 18.9917848,
+      "lng": 73.0371969,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4646739892",
+      "name": "Kille Gavthan",
+      "lat": 19.009023,
+      "lng": 73.0293851,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4646740091",
+      "name": "Retibunder (Ulwe)",
+      "lat": 18.9985407,
+      "lng": 73.0353497,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4646740094",
+      "name": "Juinagar Railway Station",
+      "lat": 19.0564272,
+      "lng": 73.0196658,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4646904590",
+      "name": "Turbhe Naka",
+      "lat": 19.0698151,
+      "lng": 73.0194198,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4646945390",
+      "name": "Shiravane Village",
+      "lat": 19.051353,
+      "lng": 73.0209186,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4647151092",
+      "name": "MIDC Khairane",
+      "lat": 19.0956699,
+      "lng": 73.0167249,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4647161290",
+      "name": "Turbhe Depot",
+      "lat": 19.0730182,
+      "lng": 73.0190362,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4647161291",
+      "name": "Turbhe Depot",
+      "lat": 19.073048,
+      "lng": 73.0185725,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4647225194",
+      "name": "Savita Chemicals",
+      "lat": 19.0848619,
+      "lng": 73.01705,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4647249508",
+      "name": "Khairane Village",
+      "lat": 19.0982381,
+      "lng": 73.0147124,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4647297089",
+      "name": "Turbhe Store/Turbhe Railway Station",
+      "lat": 19.0780631,
+      "lng": 73.0182456,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4647297091",
+      "name": "Paavane Village",
+      "lat": 19.0893,
+      "lng": 73.0175295,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4647870496",
+      "name": "Unitech",
+      "lat": 19.0272625,
+      "lng": 73.0359183,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4647870497",
+      "name": "Vivekanand Nagar",
+      "lat": 19.0241097,
+      "lng": 73.0441533,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4647870498",
+      "name": "RBI Colony (CBD Belapur)",
+      "lat": 19.0233855,
+      "lng": 73.0519079,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4647870499",
+      "name": "Bharati Vidyapeeth",
+      "lat": 19.0265647,
+      "lng": 73.0570635,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4647870501",
+      "name": "Bharati Vidyapeeth",
+      "lat": 19.0255296,
+      "lng": 73.0565533,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4647952195",
+      "name": "Kopara Village",
+      "lat": 19.0370869,
+      "lng": 73.0727727,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4647952196",
+      "name": "Gharkul / Spageti",
+      "lat": 19.0380024,
+      "lng": 73.0773381,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4647982893",
+      "name": "Kamothe Village / Mansarovar",
+      "lat": 19.0256642,
+      "lng": 73.0959614,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4647982894",
+      "name": "Kalamboli Colony",
+      "lat": 19.0237367,
+      "lng": 73.0985938,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4648001191",
+      "name": "Kharghar Railway Station",
+      "lat": 19.0270232,
+      "lng": 73.05934,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4648050591",
+      "name": "Vivekanand Nagar",
+      "lat": 19.0235186,
+      "lng": 73.0445184,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4648050592",
+      "name": "Bharati Vidyapeeth",
+      "lat": 19.0258234,
+      "lng": 73.0563193,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4648090893",
+      "name": "CBD Highway",
+      "lat": 19.0237433,
+      "lng": 73.041107,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4648090896",
+      "name": "Bharati Vidyapeeth",
+      "lat": 19.0265301,
+      "lng": 73.0566259,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4648090900",
+      "name": "Nift Bus Stop",
+      "lat": 19.0293768,
+      "lng": 73.0609615,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4648099391",
+      "name": "RBI Colony (CBD Belapur)",
+      "lat": 19.023477,
+      "lng": 73.0515538,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4648135689",
+      "name": "CBD Belapur/Konkan Bhavan",
+      "lat": 19.0240617,
+      "lng": 73.0396783,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4648151192",
+      "name": "Taloja Phata",
+      "lat": 19.0327058,
+      "lng": 73.0853572,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4648151194",
+      "name": "MGM Hospital / Kalamboli Circle",
+      "lat": 19.0223694,
+      "lng": 73.1053195,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4648151195",
+      "name": "Kalamboli Highway",
+      "lat": 19.0188406,
+      "lng": 73.106573,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4648201792",
+      "name": "Kopara Village",
+      "lat": 19.0348554,
+      "lng": 73.0708207,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4648201793",
+      "name": "Kamothe Village / Mansarovar",
+      "lat": 19.0257193,
+      "lng": 73.0951605,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4648209192",
+      "name": "Khanda Colony",
+      "lat": 19.0062716,
+      "lng": 73.1077566,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4648209194",
+      "name": "Thana Naka",
+      "lat": 18.9948986,
+      "lng": 73.113992,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4648209597",
+      "name": "Khanda Village Colony",
+      "lat": 18.998562,
+      "lng": 73.109594,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4648212590",
+      "name": "Hiranandani Complex Junction",
+      "lat": 19.031843,
+      "lng": 73.0659512,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4648224590",
+      "name": "Kalamboli Colony",
+      "lat": 19.0222297,
+      "lng": 73.1000402,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4648224593",
+      "name": "Kalamboli Highway",
+      "lat": 19.0189249,
+      "lng": 73.1063667,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4648225989",
+      "name": "Kharghar Railway Station",
+      "lat": 19.0284711,
+      "lng": 73.0601464,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4648225990",
+      "name": "Siemens Limited",
+      "lat": 19.0285286,
+      "lng": 73.0615883,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4648225991",
+      "name": "Hiranandani Complex Junction",
+      "lat": 19.0319375,
+      "lng": 73.0652165,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4648226589",
+      "name": "Sai Swar / Little World",
+      "lat": 19.0302271,
+      "lng": 73.0641544,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4648226989",
+      "name": "Sai Swar / Little World",
+      "lat": 19.0304809,
+      "lng": 73.06418,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4648271292",
+      "name": "Gharkul / Spageti",
+      "lat": 19.0383037,
+      "lng": 73.0773718,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4648271293",
+      "name": "Kamothe Village Bus Stand",
+      "lat": 19.0266778,
+      "lng": 73.0938275,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4648279092",
+      "name": "Garden Hotel",
+      "lat": 18.9987576,
+      "lng": 73.1109501,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4648279093",
+      "name": "New Panvel Bridge",
+      "lat": 18.9940927,
+      "lng": 73.1148803,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4648281993",
+      "name": "Maharashtra Vidyut Karyakari Abhiyanta Karyalay",
+      "lat": 18.9751917,
+      "lng": 73.118575,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4648281994",
+      "name": "Abhyuday Bank",
+      "lat": 18.9933299,
+      "lng": 73.1209555,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4648281995",
+      "name": "Kalimata Temple",
+      "lat": 18.9954678,
+      "lng": 73.1275351,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4648281996",
+      "name": "Ayappa Temple",
+      "lat": 18.9964148,
+      "lng": 73.1278238,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4648289991",
+      "name": "Khanda Colony",
+      "lat": 19.0060098,
+      "lng": 73.1075094,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4648289993",
+      "name": "New Panvel Bridge",
+      "lat": 18.99394,
+      "lng": 73.1145639,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4648295089",
+      "name": "Taloja Phata",
+      "lat": 19.0329778,
+      "lng": 73.0853147,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4648295091",
+      "name": "MGM Hospital / Kalamboli Circle",
+      "lat": 19.0189148,
+      "lng": 73.1056566,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4648328089",
+      "name": "Khanda Village / Netra Jyoti Hospital",
+      "lat": 19.0093976,
+      "lng": 73.1063899,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4648350889",
+      "name": "Thana Naka",
+      "lat": 18.995017,
+      "lng": 73.1142584,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4648352090",
+      "name": "Abhyuday Bank",
+      "lat": 18.9934627,
+      "lng": 73.120851,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4648354089",
+      "name": "Panchmukhi Hanuman Mandir",
+      "lat": 18.9790087,
+      "lng": 73.1162364,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4648354090",
+      "name": "Panchmukhi Hanuman Mandir",
+      "lat": 18.9789622,
+      "lng": 73.1161143,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4648354093",
+      "name": "Panvel Railway Station",
+      "lat": 18.9891659,
+      "lng": 73.1212219,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4648354094",
+      "name": "Bhatiya School / Yashwantray Mukt Vidyapeeth",
+      "lat": 18.9942377,
+      "lng": 73.1233521,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4648366492",
+      "name": "New Panvel",
+      "lat": 18.9983101,
+      "lng": 73.12312,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4648373489",
+      "name": "ONGC Kalunde",
+      "lat": 18.9745536,
+      "lng": 73.1247042,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4648373500",
+      "name": "Cidco Office",
+      "lat": 19.0415133,
+      "lng": 73.019361,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4648373501",
+      "name": "Rajiv Gandhi Bridge",
+      "lat": 19.0440055,
+      "lng": 73.0191378,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4648373989",
+      "name": "ONGC Kalunde",
+      "lat": 18.9743386,
+      "lng": 73.1255388,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4648374189",
+      "name": "Palaspe Phata Bus Stand",
+      "lat": 18.9704929,
+      "lng": 73.1324019,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4648374192",
+      "name": "Shivaji Chowk",
+      "lat": 19.0442487,
+      "lng": 73.0231477,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4648374389",
+      "name": "Palaspa Bus Stand",
+      "lat": 18.9602915,
+      "lng": 73.1309637,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4648374393",
+      "name": "SIES College",
+      "lat": 19.0427169,
+      "lng": 73.0222772,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4648387590",
+      "name": "Arundaya Chowk",
+      "lat": 18.9886903,
+      "lng": 73.1207837,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4648425989",
+      "name": "Terna Circle",
+      "lat": 18.9990909,
+      "lng": 73.1262588,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4648482189",
+      "name": "SIES College",
+      "lat": 19.0420799,
+      "lng": 73.0223594,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4648504491",
+      "name": "Parsik Bank Bus Stop",
+      "lat": 19.0407527,
+      "lng": 73.0212253,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4648505092",
+      "name": "Agarwal Trade Centre",
+      "lat": 19.0156445,
+      "lng": 73.0382699,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4648505190",
+      "name": "Diwale Koliwada Bus Stop",
+      "lat": 19.0142025,
+      "lng": 73.039005,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4648505191",
+      "name": "Central Bank / Belapur Station (W)",
+      "lat": 19.0179059,
+      "lng": 73.040318,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4648505192",
+      "name": "Belapur Commissioner Office",
+      "lat": 19.019372,
+      "lng": 73.041214,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4648522691",
+      "name": "Belapur Village",
+      "lat": 19.0125994,
+      "lng": 73.0355243,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4648572590",
+      "name": "Sai Sangam",
+      "lat": 19.0110969,
+      "lng": 73.0314079,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4648573790",
+      "name": "Sai Sangam",
+      "lat": 19.0116192,
+      "lng": 73.0359194,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4648582589",
+      "name": "Brahma House",
+      "lat": 19.0104312,
+      "lng": 73.0316021,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4648623489",
+      "name": "Datta Prasadik Bhajan Mandal",
+      "lat": 19.0135645,
+      "lng": 73.0373337,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4648677492",
+      "name": "D-Mart Seawoods",
+      "lat": 19.0191046,
+      "lng": 73.015854,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4648683790",
+      "name": "Sanjay Joshi Chowk",
+      "lat": 19.02351,
+      "lng": 73.0148998,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4648683892",
+      "name": "Nerul West",
+      "lat": 19.033945,
+      "lng": 73.0170918,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4648683995",
+      "name": "Palm Beach Highway",
+      "lat": 19.0110907,
+      "lng": 73.0117217,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4648683996",
+      "name": "Sector 48/Petrol Pump",
+      "lat": 19.0123487,
+      "lng": 73.0131056,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4648703198",
+      "name": "Darave Village",
+      "lat": 19.026821,
+      "lng": 73.0178619,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4648707793",
+      "name": "Ganesh Maidan",
+      "lat": 19.0181167,
+      "lng": 73.0122746,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4648707794",
+      "name": "Kendriya Vihar",
+      "lat": 19.0199793,
+      "lng": 73.0143089,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4648707797",
+      "name": "Ganesh Society (Nerul)",
+      "lat": 19.0281589,
+      "lng": 73.0164986,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4648722990",
+      "name": "Seawood Darawe Railway Station",
+      "lat": 19.023677,
+      "lng": 73.0194877,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4648746491",
+      "name": "Karave Gaon",
+      "lat": 19.0203771,
+      "lng": 73.011308,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4648788190",
+      "name": "Terna Engineering College",
+      "lat": 19.0302588,
+      "lng": 73.0169642,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4648808889",
+      "name": "Nerul Gymkhana",
+      "lat": 19.0276662,
+      "lng": 73.0164574,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4651809100",
+      "name": "Nerul Village",
+      "lat": 19.0367315,
+      "lng": 73.0153027,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4652120891",
+      "name": "Vidyaprasarak Shikshan Mandal",
+      "lat": 19.0371473,
+      "lng": 73.0126657,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4662929497",
+      "name": "Gurudatta Society",
+      "lat": 19.010073,
+      "lng": 73.0148761,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4662929701",
+      "name": "Nageshwar Talav",
+      "lat": 19.0242739,
+      "lng": 73.0187853,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4662933890",
+      "name": "Sterling College",
+      "lat": 19.0244212,
+      "lng": 73.0220807,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4662933891",
+      "name": "Ashtagandha Society",
+      "lat": 19.0107862,
+      "lng": 73.016389,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4662948489",
+      "name": "Mother Teresa Garden",
+      "lat": 19.0285331,
+      "lng": 73.0229931,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4662948491",
+      "name": "Sai Krupa Society",
+      "lat": 19.0093128,
+      "lng": 73.0160668,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4662950389",
+      "name": "Nirmala Society Sector 21",
+      "lat": 19.025536,
+      "lng": 73.0217717,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4662960389",
+      "name": "Shivdarshan Society",
+      "lat": 19.0130928,
+      "lng": 73.017874,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4662975890",
+      "name": "Nerul Railway Station",
+      "lat": 19.0341403,
+      "lng": 73.0196832,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4662980489",
+      "name": "Saidham Society",
+      "lat": 19.011622,
+      "lng": 73.0148747,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4662988589",
+      "name": "D Mart / Nerul Sector 21",
+      "lat": 19.0315039,
+      "lng": 73.0219661,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4662988590",
+      "name": "Nerul Sector 11/15",
+      "lat": 19.0359395,
+      "lng": 73.019853,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4662990489",
+      "name": "Meenatai Thakre Hospital",
+      "lat": 19.0337412,
+      "lng": 73.0208409,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4663001790",
+      "name": "NMMT Turbhe Depot",
+      "lat": 19.0730236,
+      "lng": 73.0137951,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4663004290",
+      "name": "City Mall / ICL School",
+      "lat": 19.0733634,
+      "lng": 73.0120995,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4663020889",
+      "name": "NMMT Turbhe Depot",
+      "lat": 19.0732611,
+      "lng": 73.0140729,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4663032589",
+      "name": "City Mall / ICL School",
+      "lat": 19.0731573,
+      "lng": 73.0125697,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4663032590",
+      "name": "Fruit And Vegetable Market",
+      "lat": 19.0735131,
+      "lng": 73.0083426,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4663032789",
+      "name": "APMC Market",
+      "lat": 19.0734509,
+      "lng": 73.0106205,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4663041891",
+      "name": "Fruit And Vegetable Market",
+      "lat": 19.0736455,
+      "lng": 73.0082513,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4663043989",
+      "name": "Kanda Batata Market",
+      "lat": 19.073739,
+      "lng": 73.0053645,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4663057593",
+      "name": "Vashi Gurudwara",
+      "lat": 19.0748011,
+      "lng": 72.9918372,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4663057808",
+      "name": "Shiv Centre",
+      "lat": 19.0739576,
+      "lng": 73.0020458,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4663058002",
+      "name": "Saint Lawrence High School",
+      "lat": 19.0742751,
+      "lng": 73.0008544,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4663058111",
+      "name": "Bank Of Baroda",
+      "lat": 19.0742361,
+      "lng": 72.9984844,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4663058342",
+      "name": "Shiv Centre",
+      "lat": 19.0741236,
+      "lng": 73.0029881,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4663058346",
+      "name": "Bank Of Baroda",
+      "lat": 19.0744104,
+      "lng": 72.9991964,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4663058698",
+      "name": "Navratna Hotel Bus Stop",
+      "lat": 19.0733898,
+      "lng": 72.9978715,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4663060201",
+      "name": "Saint Lawrence High School",
+      "lat": 19.0740349,
+      "lng": 73.0013135,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4663061098",
+      "name": "Vashi Gaon",
+      "lat": 19.0697162,
+      "lng": 72.987709,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4663064792",
+      "name": "Vashi Bus Depot",
+      "lat": 19.0745585,
+      "lng": 72.9970366,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4663064892",
+      "name": "Vashi Sector 4",
+      "lat": 19.0751259,
+      "lng": 72.9900391,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4663064893",
+      "name": "Vashi Sector 4",
+      "lat": 19.0749775,
+      "lng": 72.9899146,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4663067196",
+      "name": "Vashi Sector 6 Market",
+      "lat": 19.071153,
+      "lng": 72.9878155,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4663069694",
+      "name": "Vashi Sector 6 Market",
+      "lat": 19.0708207,
+      "lng": 72.9879083,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4663088589",
+      "name": "Vashi Bus Depot",
+      "lat": 19.0744277,
+      "lng": 72.9966386,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4663088590",
+      "name": "Kamgar Hospital",
+      "lat": 19.0742149,
+      "lng": 72.9880675,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4663089589",
+      "name": "Vashi Gurudwara",
+      "lat": 19.0748107,
+      "lng": 72.9944253,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4663097189",
+      "name": "Kamgar Hospital",
+      "lat": 19.0739345,
+      "lng": 72.9882069,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4663102897",
+      "name": "Centre One",
+      "lat": 19.0677922,
+      "lng": 72.9972623,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4663103402",
+      "name": "Apna Bazar",
+      "lat": 19.0712449,
+      "lng": 72.9976478,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4663124190",
+      "name": "Apna Bazaar",
+      "lat": 19.0701073,
+      "lng": 72.9973175,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4663124293",
+      "name": "Centre One",
+      "lat": 19.0678685,
+      "lng": 72.9974349,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4663128392",
+      "name": "Inorbit Mall",
+      "lat": 19.0643025,
+      "lng": 72.9999608,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4663411390",
+      "name": "Gaondevi Mandir",
+      "lat": 19.0828441,
+      "lng": 73.0004083,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4663411592",
+      "name": "Mahatma Gandhi Complex",
+      "lat": 19.0844936,
+      "lng": 73.0018103,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4663411595",
+      "name": "Vashi Sector 9 / 16 Juhu Nagar Market",
+      "lat": 19.078688,
+      "lng": 72.9981261,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4663411893",
+      "name": "Balaji Garden Bus Stop",
+      "lat": 19.0948465,
+      "lng": 73.0119917,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4663411897",
+      "name": "Samata Nagar / Bonkode",
+      "lat": 19.0945731,
+      "lng": 73.0055706,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4663411898",
+      "name": "Juhu Village",
+      "lat": 19.0882175,
+      "lng": 73.0039762,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4663412191",
+      "name": "Sector 29 Vashi",
+      "lat": 19.0894378,
+      "lng": 73.0047837,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4663412192",
+      "name": "Juhu Village",
+      "lat": 19.0882637,
+      "lng": 73.0043497,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4663412193",
+      "name": "Sector 12 Vashi",
+      "lat": 19.0877597,
+      "lng": 73.0039074,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4663412196",
+      "name": "Apna Bazar Sector 10 Vashi",
+      "lat": 19.0800349,
+      "lng": 72.9985586,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4663460297",
+      "name": "Maldhanisar Kendra / Sector 23",
+      "lat": 19.098829,
+      "lng": 72.9988527,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4663460298",
+      "name": "Ra. F Naik Chowk",
+      "lat": 19.0993024,
+      "lng": 73.0044484,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4663495392",
+      "name": "RF Naik School",
+      "lat": 19.0987217,
+      "lng": 73.0050666,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4663495393",
+      "name": "Mega Mart",
+      "lat": 19.0916428,
+      "lng": 73.0054787,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4663533892",
+      "name": "Indira Gandhi Engineering College",
+      "lat": 19.0982665,
+      "lng": 73.0012943,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4663614191",
+      "name": "Sector 29 Vashi",
+      "lat": 19.0895371,
+      "lng": 73.005083,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4663614192",
+      "name": "Sector 14 Bus Stop",
+      "lat": 19.0822973,
+      "lng": 73.0002778,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4663614193",
+      "name": "Sector 15/10 Vashi",
+      "lat": 19.0803419,
+      "lng": 72.9987175,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4663630989",
+      "name": "Vashi Sector 15",
+      "lat": 19.0848771,
+      "lng": 73.0018619,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4663665989",
+      "name": "Vashi Sec 1/16",
+      "lat": 19.0787071,
+      "lng": 72.9983045,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4664991195",
+      "name": "Mahatma Phule Sabhagruh",
+      "lat": 19.070063,
+      "lng": 73.0020428,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4664991290",
+      "name": "Vashi Highway",
+      "lat": 19.0688801,
+      "lng": 72.9980837,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4664991291",
+      "name": "Maharashtra State Co-Operative Bank",
+      "lat": 19.0681439,
+      "lng": 73.000218,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4664991292",
+      "name": "Shamrao Vitthal Bank",
+      "lat": 19.068213,
+      "lng": 73.0044722,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4664991294",
+      "name": "Sanpada Railway Station",
+      "lat": 19.0676136,
+      "lng": 73.0086348,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4665009089",
+      "name": "Maharashtra State Co-Operative Bank",
+      "lat": 19.0685844,
+      "lng": 73.0005908,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4665010205",
+      "name": "Datta Mandir",
+      "lat": 19.067578,
+      "lng": 73.0139977,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4665010289",
+      "name": "Shamrao Vitthal Bank",
+      "lat": 19.0678412,
+      "lng": 73.0044428,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4665010293",
+      "name": "Sanpada Railway Station",
+      "lat": 19.0679524,
+      "lng": 73.0093933,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4665021705",
+      "name": "Riddhi Siddhi Police Station",
+      "lat": 19.0626269,
+      "lng": 73.0105998,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4665021797",
+      "name": "Shantaram Patil Chowk",
+      "lat": 19.071995,
+      "lng": 73.0025686,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4665029394",
+      "name": "Nathu Joma Patil Chowk",
+      "lat": 19.0606458,
+      "lng": 73.0140982,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4665029397",
+      "name": "Juinagar Railway Station",
+      "lat": 19.0551161,
+      "lng": 73.0161605,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4665029890",
+      "name": "Shantaram Patil Chowk",
+      "lat": 19.072018,
+      "lng": 73.0022289,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4665030193",
+      "name": "Vivekananda School",
+      "lat": 19.0629611,
+      "lng": 73.013242,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4665030594",
+      "name": "Modern College Bus Stop",
+      "lat": 19.0767308,
+      "lng": 73.002929,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4665035791",
+      "name": "Moraj Residency,Sanpada",
+      "lat": 19.059388,
+      "lng": 73.0028322,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4665035792",
+      "name": "Riddhi Siddhi Police Station",
+      "lat": 19.0629058,
+      "lng": 73.0099273,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4665040394",
+      "name": "Modern College Bus Stop",
+      "lat": 19.0759648,
+      "lng": 73.0025841,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4665074590",
+      "name": "Vivekananda School",
+      "lat": 19.0630434,
+      "lng": 73.0134636,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4665107006",
+      "name": "Dattatreya Apartment",
+      "lat": 19.0482738,
+      "lng": 73.0174151,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4665107007",
+      "name": "Dattatreya Apartment",
+      "lat": 19.0481616,
+      "lng": 73.0173465,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4665107091",
+      "name": "Aniruddha Bhavan",
+      "lat": 19.0531467,
+      "lng": 73.0166663,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4665107092",
+      "name": "Amruta Vidyalaya",
+      "lat": 19.0520563,
+      "lng": 73.0166908,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4665107206",
+      "name": "Nathu Joma Patil Chowk",
+      "lat": 19.0607136,
+      "lng": 73.0138985,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4665107296",
+      "name": "Juinagar Railway Station",
+      "lat": 19.0551816,
+      "lng": 73.0162937,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4665107297",
+      "name": "Aniruddha Bhavan",
+      "lat": 19.0531473,
+      "lng": 73.0165583,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4665107300",
+      "name": "Juipada Sector 23/24",
+      "lat": 19.0511472,
+      "lng": 73.0168452,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4665109303",
+      "name": "Chincholi Talao (Juinagar)",
+      "lat": 19.0466984,
+      "lng": 73.0176288,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4665109304",
+      "name": "Ganesh Chowk (Nerul-E)",
+      "lat": 19.0440667,
+      "lng": 73.017651,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4665153705",
+      "name": "Swatantryaveer Sawarkar Chowk",
+      "lat": 19.0436464,
+      "lng": 73.0146601,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4665153706",
+      "name": "Sarsole Koliwada",
+      "lat": 19.0439156,
+      "lng": 73.014306,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4665153902",
+      "name": "Sarsole Koliwada",
+      "lat": 19.0430206,
+      "lng": 73.0146821,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4665153903",
+      "name": "Terna College",
+      "lat": 19.038573,
+      "lng": 73.0146009,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4665153999",
+      "name": "Sarsole Koliwada",
+      "lat": 19.0436749,
+      "lng": 73.0142363,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4665154194",
+      "name": "Chincholi Talao (Juinagar)",
+      "lat": 19.0464647,
+      "lng": 73.0175578,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4665154197",
+      "name": "Sarsole Depot",
+      "lat": 19.0403055,
+      "lng": 73.014709,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4665154497",
+      "name": "Nerul Railway Station East",
+      "lat": 19.032132,
+      "lng": 73.0188338,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4665158691",
+      "name": "Juipada Sector 23/24",
+      "lat": 19.0513732,
+      "lng": 73.0169358,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4665158704",
+      "name": "Juinagar Sector-25",
+      "lat": 19.0476311,
+      "lng": 73.0173703,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4665169289",
+      "name": "Amruta Vidyalaya",
+      "lat": 19.052105,
+      "lng": 73.0168392,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4665169310",
+      "name": "Gaondevi Chowk (Juinagar)",
+      "lat": 19.0501788,
+      "lng": 73.0171221,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4665169391",
+      "name": "Gaondevi Chowk (Juinagar)",
+      "lat": 19.0504624,
+      "lng": 73.0169737,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4665169393",
+      "name": "Juinagar Sector-25",
+      "lat": 19.047505,
+      "lng": 73.0175004,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4665191695",
+      "name": "Terna College",
+      "lat": 19.0383042,
+      "lng": 73.0145241,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4665191790",
+      "name": "Ganesh Chowk (Nerul-E)",
+      "lat": 19.0444372,
+      "lng": 73.0178158,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4665192293",
+      "name": "Nerul Police Station",
+      "lat": 19.0297772,
+      "lng": 73.0182867,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4665230989",
+      "name": "Nerul Railway Station East",
+      "lat": 19.0322162,
+      "lng": 73.0191906,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4665230990",
+      "name": "Nerul Police Station",
+      "lat": 19.0298582,
+      "lng": 73.0184986,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4665242193",
+      "name": "Shagun Realty Chowk",
+      "lat": 18.9752766,
+      "lng": 73.0294559,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4665317300",
+      "name": "Belapur A-Ward",
+      "lat": 19.014188,
+      "lng": 73.0311838,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4665320197",
+      "name": "Sai Mandir (Wahal)",
+      "lat": 18.9716998,
+      "lng": 73.0353863,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4665330399",
+      "name": "Belapur Lake",
+      "lat": 19.0132068,
+      "lng": 73.0321582,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4665330400",
+      "name": "Vidya Prasarak High School",
+      "lat": 19.0134942,
+      "lng": 73.0350737,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4665330401",
+      "name": "Belapur Village",
+      "lat": 19.0125339,
+      "lng": 73.0349311,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4665330492",
+      "name": "Peoples Education Primary School",
+      "lat": 19.0295388,
+      "lng": 73.0447076,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4665333892",
+      "name": "Bramha House",
+      "lat": 19.0109854,
+      "lng": 73.0300984,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4665333896",
+      "name": "Police Aayuktalaya",
+      "lat": 19.0232143,
+      "lng": 73.0375947,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4665335292",
+      "name": "Sai Mandir (Wahal)",
+      "lat": 18.9723679,
+      "lng": 73.0347904,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4665340191",
+      "name": "Cidco Bhavan / Konkan Bhavan",
+      "lat": 19.0226029,
+      "lng": 73.0394145,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4665343393",
+      "name": "Kalpatru Society",
+      "lat": 19.0286577,
+      "lng": 73.0454695,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4665371690",
+      "name": "Police Aayuktalaya",
+      "lat": 19.0230556,
+      "lng": 73.0381603,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4665413489",
+      "name": "Dr DY Patil College",
+      "lat": 19.0254789,
+      "lng": 73.044729,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4665416490",
+      "name": "Kalpataru Society",
+      "lat": 19.0285598,
+      "lng": 73.0456321,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4665416590",
+      "name": "Sahadev Dhyana Center",
+      "lat": 19.0304941,
+      "lng": 73.042901,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4665416591",
+      "name": "Gavaskar Ground Sector-2/3",
+      "lat": 19.0282511,
+      "lng": 73.0392817,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4665419289",
+      "name": "Vikasini Society /  Nisarg Friendship Society",
+      "lat": 19.0274417,
+      "lng": 73.0460972,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4665419291",
+      "name": "Gavaskar Ground Sector-2/3",
+      "lat": 19.0281989,
+      "lng": 73.0398356,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4665460889",
+      "name": "Police Colony",
+      "lat": 19.0273289,
+      "lng": 73.0383064,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4665460989",
+      "name": "Police Colony",
+      "lat": 19.0275782,
+      "lng": 73.0384093,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4665499391",
+      "name": "Apna Bazar (Belapur)",
+      "lat": 19.0333943,
+      "lng": 73.0433129,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4665515789",
+      "name": "Arenja Complex",
+      "lat": 19.0314603,
+      "lng": 73.0433505,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4665515790",
+      "name": "Arenja Complex",
+      "lat": 19.0313872,
+      "lng": 73.0432883,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4665516089",
+      "name": "Apna Bazar (Belapur)",
+      "lat": 19.0333525,
+      "lng": 73.0432678,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4665647294",
+      "name": "Meridian",
+      "lat": 19.0411208,
+      "lng": 73.0097661,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4665684192",
+      "name": "Nerul Sector-2/4",
+      "lat": 19.0439737,
+      "lng": 73.011494,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4665684294",
+      "name": "Deep Sagar Society",
+      "lat": 19.0429616,
+      "lng": 73.0097301,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4665684295",
+      "name": "Deep Sagar Society",
+      "lat": 19.0423903,
+      "lng": 73.0098312,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4665684392",
+      "name": "Meridian",
+      "lat": 19.041035,
+      "lng": 73.0096562,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4679939903",
+      "name": "Shalimar",
+      "lat": 19.0854176,
+      "lng": 73.0280214,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4679940093",
+      "name": "Sanghavi",
+      "lat": 19.0806497,
+      "lng": 73.0269545,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4679940190",
+      "name": "Faizer Company",
+      "lat": 19.0707767,
+      "lng": 73.0234788,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4679941396",
+      "name": "Sanarvi Printers",
+      "lat": 19.0800112,
+      "lng": 73.0270002,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4679941399",
+      "name": "Pawan Industries",
+      "lat": 19.0964345,
+      "lng": 73.0265086,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4679941792",
+      "name": "Hayco",
+      "lat": 19.0893228,
+      "lng": 73.0276909,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4679941793",
+      "name": "Hayco",
+      "lat": 19.0899197,
+      "lng": 73.0275844,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4679941794",
+      "name": "Krishna Steel",
+      "lat": 19.0926386,
+      "lng": 73.0271636,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4679946993",
+      "name": "Dambar Plant",
+      "lat": 19.0708401,
+      "lng": 73.0248059,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4679946994",
+      "name": "Indira Nagar",
+      "lat": 19.0712795,
+      "lng": 73.0277426,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/4679970590",
+      "name": "Bagade Engineers",
+      "lat": 19.0747639,
+      "lng": 73.0276023,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/5411587086",
+      "name": "Palm Beach Highway",
+      "lat": 19.0101419,
+      "lng": 73.0119159,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/5501108946",
+      "name": "Seawoods Bus Station",
+      "lat": 19.0151656,
+      "lng": 73.0149449,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/5520349112",
+      "name": "D-Mart Seawoods",
+      "lat": 19.0193582,
+      "lng": 73.0162069,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/5520349113",
+      "name": "Nakhwa Chowk",
+      "lat": 19.0174061,
+      "lng": 73.0172118,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/5520349114",
+      "name": "Nakhwa Chowk",
+      "lat": 19.0172961,
+      "lng": 73.017193,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/5520349115",
+      "name": "Maharashtra Gyan Maha Mandal",
+      "lat": 19.016674,
+      "lng": 73.0170673,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/5520349116",
+      "name": "Maharashtra Gyan Maha Mandal",
+      "lat": 19.0160943,
+      "lng": 73.0166735,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/5520349117",
+      "name": "Sector 48/Petrol Pump",
+      "lat": 19.0125483,
+      "lng": 73.0131077,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/5520349119",
+      "name": "Seawoods Bus Station",
+      "lat": 19.0156804,
+      "lng": 73.0149526,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/5520349120",
+      "name": "Karave Smashan Bhoomi",
+      "lat": 19.017064,
+      "lng": 73.0134358,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/5520349223",
+      "name": "Seawoods Railway Station",
+      "lat": 19.0205616,
+      "lng": 73.0180886,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/5520349224",
+      "name": "Seawoods Railway Station",
+      "lat": 19.0213792,
+      "lng": 73.0171892,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/5520349225",
+      "name": "Seawoods Railway Station",
+      "lat": 19.0220038,
+      "lng": 73.016655,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/5520349226",
+      "name": "Sanjay Joshi Chowk",
+      "lat": 19.0233855,
+      "lng": 73.0151626,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/5520352021",
+      "name": "Akshar Residency",
+      "lat": 19.0115554,
+      "lng": 73.0123526,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/5520352022",
+      "name": "Palm Beach Highway",
+      "lat": 19.0099366,
+      "lng": 73.0118435,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/6194544571",
+      "name": "Nerul Station (E)",
+      "lat": 19.0330489,
+      "lng": 73.0188412,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/6651081025",
+      "name": "Shivaji Chowk",
+      "lat": 19.044209,
+      "lng": 73.0229567,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/6655553679",
+      "name": "Nerul Station West",
+      "lat": 19.033756,
+      "lng": 73.0171942,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/6986966478",
+      "name": "Parsik Bank Bus Stop",
+      "lat": 19.040601,
+      "lng": 73.0213838,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/6986966480",
+      "name": "Balaji Building",
+      "lat": 19.0390704,
+      "lng": 73.0201153,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/7542027627",
+      "name": "Sterling College",
+      "lat": 19.0240488,
+      "lng": 73.0226336,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/7547895122",
+      "name": "Vashi Gaon",
+      "lat": 19.0692166,
+      "lng": 72.9872492,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/7728070192",
+      "name": "D Mart / Nerul Sector 21",
+      "lat": 19.0316759,
+      "lng": 73.0216566,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/7728934352",
+      "name": "Vashi Highway",
+      "lat": 19.0684063,
+      "lng": 72.9965468,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/7731220340",
+      "name": "Nerul Highway",
+      "lat": 19.0465503,
+      "lng": 73.0253136,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/7731220341",
+      "name": "Nerul Highway",
+      "lat": 19.0468804,
+      "lng": 73.0242973,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/7803569018",
+      "name": "Mahatma Phule Sabhagruh",
+      "lat": 19.070037,
+      "lng": 73.0024191,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/9332158966",
+      "name": "Nerul Station (E)",
+      "lat": 19.0329043,
+      "lng": 73.0188118,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/9665403458",
+      "name": "SBI Colony",
+      "lat": 19.0394005,
+      "lng": 73.0286049,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/9665403459",
+      "name": "SBI Colony",
+      "lat": 19.0394431,
+      "lng": 73.0289908,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/9665403496",
+      "name": "Kendriya Vihar",
+      "lat": 19.0197452,
+      "lng": 73.014424,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/9685181441",
+      "name": "NMMC",
+      "lat": 19.0089492,
+      "lng": 73.0251922,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/9685181453",
+      "name": "Kille Gavthan",
+      "lat": 19.0078793,
+      "lng": 73.029162,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/9685181454",
+      "name": "NMMC",
+      "lat": 19.009143,
+      "lng": 73.0280225,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/9685181455",
+      "name": "Brahma House",
+      "lat": 19.0101677,
+      "lng": 73.0315589,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/9685181456",
+      "name": "Sai Sangam",
+      "lat": 19.0119327,
+      "lng": 73.0360221,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/9776572421",
+      "name": "Turbhe Naka",
+      "lat": 19.0699931,
+      "lng": 73.0191556,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/9861829851",
+      "name": "Gavhan Phata",
+      "lat": 18.9588981,
+      "lng": 73.0375241,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/9861937754",
+      "name": "Shagun Realty Chowk",
+      "lat": 18.9751507,
+      "lng": 73.0292238,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/9861985267",
+      "name": "Seawoods Railway Station",
+      "lat": 19.0203665,
+      "lng": 73.0184576,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/9867433225",
+      "name": "Wahal",
+      "lat": 18.9744798,
+      "lng": 73.0357062,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/9867448009",
+      "name": "Ulwe Node",
+      "lat": 18.9722637,
+      "lng": 73.0344667,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/9867448010",
+      "name": "Ulwe Node",
+      "lat": 18.9719118,
+      "lng": 73.0345367,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/9897213432",
+      "name": "Kharghar Railway Station",
+      "lat": 19.0264976,
+      "lng": 73.058951,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/10613729776",
+      "name": "deravli bus stop",
+      "lat": 18.9622498,
+      "lng": 73.1435424,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/10613821667",
+      "name": "Buss stop",
+      "lat": 19.0334319,
+      "lng": 73.0992326,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/12133218353",
+      "name": "Gaimukh Chowk",
+      "lat": 19.0145457,
+      "lng": 73.0152313,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/12133218354",
+      "name": "Gaimukh Chowk",
+      "lat": 19.0146769,
+      "lng": 73.015075,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/12133218355",
+      "name": "Sector 42A",
+      "lat": 19.0154624,
+      "lng": 73.015248,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/12133218356",
+      "name": "Banubai Ganpat Tandel Market",
+      "lat": 19.0142268,
+      "lng": 73.016618,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/12894108480",
+      "name": "Kendriya Vihar",
+      "lat": 19.0197452,
+      "lng": 73.014424,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/13131239760",
+      "name": "Sector 13 bus stop",
+      "lat": 19.0433307,
+      "lng": 73.0726294,
+      "source": "OpenStreetMap"
+    },
+    {
+      "id": "node/13703628282",
+      "name": "Rohinjan Bus Stop",
+      "lat": 19.0920331,
+      "lng": 73.0763125,
+      "source": "OpenStreetMap"
+    }
+  ]
+}

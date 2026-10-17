@@ -1,0 +1,4 @@
+export type NearbyStop={name:string;lat:number;lng:number;id?:string;source?:string};
+export const stopKey=(s:string)=>s.toLowerCase().replace(/\bbus\s*(stop|station)\b/g,'').replace(/\b(?:railway\s+)?station\b/g,'').replace(/\beast\b/g,'e').replace(/\bwest\b/g,'w').replace(/[^\p{L}\p{N}]/gu,'');
+export function catalogueName(name:string,names:string[]){const matches=names.filter(n=>stopKey(n)===stopKey(name));return matches.length===1?matches[0]:name;}
+export function nearbySorted<T extends NearbyStop>(stops:T[],p:{lat:number;lng:number},radius=1500){return stops.filter(s=>Number.isFinite(s.lat)&&Number.isFinite(s.lng)).map(s=>({...s,d:Math.hypot((s.lat-p.lat)*111320,(s.lng-p.lng)*111320*Math.cos(p.lat*Math.PI/180))})).filter(s=>s.d<=radius).sort((a,b)=>a.d-b.d).filter((s,i,all)=>!all.slice(0,i).some(a=>stopKey(a.name)===stopKey(s.name)&&Math.abs(a.lat-s.lat)<.0002&&Math.abs(a.lng-s.lng)<.0002));}

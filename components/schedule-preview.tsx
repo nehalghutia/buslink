@@ -1,0 +1,14 @@
+"use client";
+import {useEffect,useState} from "react";
+import type {PilotRoute} from "../lib/pilot";
+import {scheduleEstimate} from "../lib/schedule-estimate";
+import LiveMap from "./live-map";
+export default function SchedulePreview({routes}:{routes:PilotRoute[]}){
+ const [routeId,setRouteId]=useState(""),[departure,setDeparture]=useState(""),[duration,setDuration]=useState(""),[reverse,setReverse]=useState(false),[now,setNow]=useState(Date.now()),[open,setOpen]=useState(false);
+ useEffect(()=>{if(!open)return;const t=setInterval(()=>setNow(Date.now()),5000);return()=>clearInterval(t);},[open]);
+ const route=routes.find(r=>r.id===routeId)||null;
+ // Input is explicitly India time regardless of the device timezone.
+ const start=Date.parse(departure+":00+05:30");
+ const estimate=route?scheduleEstimate(route,start,Number(duration),now,reverse):null;
+ return <section className="route-setup"><button className="outline" aria-expanded={open} onClick={()=>setOpen(!open)}>Timetable estimate {open?"−":"+"}</button>{open&&<><h2>Estimate a scheduled trip</h2><p>This private preview assumes constant progress between saved stops. It does not confirm departure or account for traffic, cancellations or stop dwell times. Enter a checked departure and journey duration.</p>{!routes.length?<p>Choose a route in the <a href="/routes"><u>catalogue</u></a> and add its coordinates first.</p>:<><div className="estimate-fields"><label>Mapped route<select value={routeId} onChange={e=>setRouteId(e.target.value)}><option value="">Choose route</option>{routes.map(r=><option key={r.id} value={r.id}>{r.name}</option>)}</select></label><label>Departure date & time (IST)<input type="datetime-local" value={departure} onChange={e=>setDeparture(e.target.value)}/></label><label>Journey duration (minutes)<input type="number" min="1" max="360" value={duration} onChange={e=>setDuration(e.target.value)}/></label><label>Direction<select value={reverse?"reverse":"forward"} onChange={e=>setReverse(e.target.value==="reverse")}><option value="forward">Saved stop order</option><option value="reverse">Reverse order (approximate)</option></select></label></div><p role="status">{estimate?`Estimated · ${estimate.progress}% of scheduled journey · next listed stop: ${estimate.nextStop}`:!route||!departure||!duration?"Select a route and enter valid trip timing.":now<start?"Trip has not reached its entered departure time.":"No active estimate: the entered journey has ended or timing is invalid."}</p>{route&&<LiveMap groups={[]} selected={null} onSelect={()=>{}} own={null} focusOwn={0} pilotRoute={route} estimate={estimate}/>}<p className="field-help">Amber marker = timetable estimate, not GPS. Live passenger reports remain on the main tracking map. These trip inputs are not saved or shared.</p></>}</>}</section>;
+}

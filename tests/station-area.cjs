@@ -1,0 +1,5 @@
+const fs=require('node:fs'),vm=require('node:vm'),ts=require('typescript'),assert=require('node:assert/strict');
+function load(name){const context={exports:{},require:n=>load(n.replace('./',''))};vm.runInNewContext(ts.transpileModule(fs.readFileSync('lib/'+name+'.ts','utf8'),{compilerOptions:{module:ts.ModuleKind.CommonJS,target:ts.ScriptTarget.ES2022}}).outputText,context);return context.exports;}
+const {stationAreaChoices}=load('station-area');const tables=JSON.parse(fs.readFileSync('lib/airport-timetables.json'));
+for(const id of ['airport-a1-0','airport-a1-1']){const names=tables.find(r=>r.id===id).stops;assert.equal(stationAreaChoices(names,{lat:18.97517,lng:73.0244,accuracy:15}).length,2);assert.equal(stationAreaChoices(names,{lat:18.97191,lng:73.03453,accuracy:15}).length,0);assert.equal(stationAreaChoices(names,{lat:18.97517,lng:73.0244,accuracy:200}).length,0);assert.equal(stationAreaChoices(names,null).length,0);}
+console.log('PASS: Bamandongri East/West choices in both directions; Ulwe, weak GPS and absent GPS excluded');
