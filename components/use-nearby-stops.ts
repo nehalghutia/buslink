@@ -14,6 +14,6 @@ export function useNearbyStops(p:{lat:number;lng:number}|null){
    }catch{if(!cancelled)setResult(old=>({...old,loading:false,message:'Stop lookup unavailable. Saved stops are still used.'}));}finally{busy=false;}
   };
   check();const timer=setInterval(check,5000);return()=>{cancelled=true;controller.abort();clearInterval(timer);};
- },[retry]);
+ },[retry,!!p]);
  return {...result,retry:()=>setRetry(n=>n+1)};
 }
